@@ -1,0 +1,5 @@
+check_quagga
+=====
+
+A Nagios plugin that allows to check some Quagga metrics
+
